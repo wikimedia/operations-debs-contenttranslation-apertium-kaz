@@ -1,3 +1,12 @@
+apertium-kaz (0.1.0~r61338-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream release.
+  * Rebuild for Jessie.
+  * Cleanup debian/rules.
+  * Fixed dependencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Tue, 28 Jun 2016 08:44:05 +0530
+
 apertium-kaz (0.1.0~r60155-1) trusty; urgency=low
 
   [ Kartik Mistry ]
