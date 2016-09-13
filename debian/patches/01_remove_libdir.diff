@@ -1,0 +1,13 @@
+Description: Remove libdir from pkg-config
+Index: b/apertium-kaz.pc.in
+===================================================================
+--- a/apertium-kaz.pc.in
++++ b/apertium-kaz.pc.in
+@@ -1,7 +1,5 @@
+ prefix=@prefix@
+ exec_prefix=${prefix}
+-libdir=@libdir@
+-dir=@libdir@/apertium/apertium-kaz
+ srcdir=@datarootdir@/apertium/apertium-kaz
+ 
+ Name: apertium-kaz
